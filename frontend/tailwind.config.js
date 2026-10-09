@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{js,jsx}'], theme: { extend: { colors: { cream: '#f4f5ee', ink: '#2b2b2b', brand: '#ff7a1a', sand: '#dcd8d0' }, fontFamily: { display: ['"Bebas Neue"', 'sans-serif'], pixel: ['"Pixelify Sans"', 'serif'], body: ['Inter', 'sans-serif'] } } } }
