@@ -1,4 +1,3 @@
-::: {align="center"}
 # VeriLens AI
 
 ### Multimodal Deepfake Detection & Explainable Content Verification
